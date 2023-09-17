@@ -12,7 +12,7 @@ O Gerador de Senhas é uma aplicação simples que permite aos usuários gerar s
 
 ## Como Usar
 
-1. Acesse a [página da aplicação](https://example.com/gerador-de-senhas).
+1. Acesse a [página da aplicação](https://gerador-senha-ochre.vercel.app/).
 2. Use o controle deslizante para escolher o tamanho da senha que você deseja gerar (de 5 a 25 caracteres).
 3. Clique no botão "Gerar Senha" para gerar uma senha aleatória.
 4. A senha gerada será exibida na tela.
